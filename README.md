@@ -1,4 +1,4 @@
-## Instructions.
+## Instructions to reproduce the issue.
 First, create an `.env.local` file and set the required variables (you can use `.env.local` as a start)
 
 Then, install dependencies:
